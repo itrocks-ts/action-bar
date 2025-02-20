@@ -1,0 +1,40 @@
+{
+	"author": {
+		"name": "Baptiste Pillot",
+		"email": "baptiste@pillot.fr"
+	},
+	"description": "CSS for action button bars with flexible layout and basic styling",
+	"devDependencies": {
+		"sass": "^1.80"
+	},
+	"files": [
+		"LICENSE",
+		"README.md",
+		"*.css"
+	],
+	"homepage": "https://it.rocks",
+	"keywords": [
+		"action",
+		"bar",
+		"button",
+		"buttons",
+		"component",
+		"css",
+		"design",
+		"front-end",
+		"it.rocks",
+		"responsive",
+		"UI",
+		"UX"
+	],
+	"license": "ISC",
+	"name": "@itrocks/action-bar",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/itrocks-ts/action-bar.git"
+	},
+	"scripts": {
+		"build": "sass --no-source-map action.scss action.css"
+	},
+	"version": "0.0.1"
+}
