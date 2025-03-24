@@ -15,7 +15,8 @@ ul.actions {
 	}
 
 	> li {
-		background: left center no-repeat;
+		background-position: left center;
+		background-repeat: no-repeat;
 		background-size: 24px;
 		border: 1px solid #d0d0d0;
 		border-radius: 4px;

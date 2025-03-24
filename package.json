@@ -37,5 +37,5 @@
 	"scripts": {
 		"build": "sass --no-source-map action.scss action.css"
 	},
-	"version": "0.0.3"
+	"version": "0.0.4"
 }
