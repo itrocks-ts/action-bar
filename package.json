@@ -5,7 +5,7 @@
 	},
 	"description": "CSS for action button bars with flexible layout and basic styling",
 	"devDependencies": {
-		"sass": "^1.80"
+		"sass": "^1.95"
 	},
 	"files": [
 		"LICENSE",
@@ -37,5 +37,5 @@
 	"scripts": {
 		"build": "sass --no-source-map action.scss action.css"
 	},
-	"version": "0.0.6"
+	"version": "0.0.7"
 }
